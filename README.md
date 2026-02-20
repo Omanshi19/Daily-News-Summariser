@@ -6,7 +6,7 @@ Features
 Intelligent, AI-based article summarization
 Highlights key insights and main points 
 Clean and intuitive user interface    
-Option to customize summary length   
+Option to customize summary length    
     
 
 How It Works  
