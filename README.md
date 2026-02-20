@@ -7,7 +7,7 @@ Intelligent, AI-based article summarization
 Highlights key insights and main points 
 Clean and intuitive user interface    
 Option to customize summary length   
-   
+    
 
 How It Works  
 Paste a news article URL or text 
