@@ -4,7 +4,7 @@ AI-powered tool for transforming lengthy news articles into concise, readable su
 
 Features
 Intelligent, AI-based article summarization
-Highlights key insights and main points
+Highlights key insights and main points 
 Clean and intuitive user interface  
 Option to customize summary length   
  
