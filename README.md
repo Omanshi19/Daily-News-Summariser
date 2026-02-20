@@ -10,7 +10,7 @@ Option to customize summary length
  
 
 How It Works  
-Paste a news article URL or text
+Paste a news article URL or text 
 Let the AI generate a short summary
 Review important points quickly, or access the original source as needed
 
